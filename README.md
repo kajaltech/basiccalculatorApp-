@@ -1,4 +1,4 @@
-# flutter_calculator_demo
+# calculator app
 Example project demonstrating how to build a calculator app in Flutter
 
 
